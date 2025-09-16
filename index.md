@@ -1,11 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: Home
 ---
 
-# Hello 👋
-This is my GitHub Pages site built with **Jekyll**.
+# Welcome 👋
+Hi, I’m **Nawfal Benchekroun** — research engineer at EDF Labs. I work on topics related Document Understanding and development of surrogates of industrial grade simulations
 
-- ✨ Easy to write pages in Markdown
-- 📝 Add blog posts
-- 🎨 Use free Jekyll themes
